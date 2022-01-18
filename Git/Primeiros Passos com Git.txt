@@ -1,0 +1,4 @@
+O Git é utilizado para fazer o versionamento do código, ou seja, estamos criando algo novo. 
+O Git possibilita ter acesso a todas as versões de um projeto. Foi criado por Linus Torvals, o criado do Linux um sistema opoeracional assim como o Windows.
+Existem outros iguais ao Git, porém são menos populares.
+O Git se diferencia do Github, uma vez que o Github é utilizado para armazenamento dos nossos projetos e códigos
